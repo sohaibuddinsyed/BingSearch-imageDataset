@@ -2,4 +2,4 @@
 
 ## Usage
 
-*python search_bing_api.py --query <image-name>*
+python search_bing_api.py --query <image-name>
