@@ -1,0 +1,8 @@
+/dataset/
+/.env
+# IntelliJ
+*.iml
+.idea
+# VSCode
+.vscode
+venv
